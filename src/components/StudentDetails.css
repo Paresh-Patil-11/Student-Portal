@@ -1,0 +1,30 @@
+.seeStudentCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+}
+
+h2{
+  color: rgb(146, 221, 246);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center !important;
+}
+
+.seeStudentCard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: start;
+  align-items: flex-start;
+  gap: 16px; 
+  padding: 16px;
+}
+
+.seeStudentCard {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  gap: 16px;
+  padding: 16px;
+}

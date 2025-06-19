@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+
+    text-align: center;
+    color: rgb(163, 232, 255);
+}
+
+@media (max-width: 400px) {
+    h1{
+        font-size: 2.5rem;
+    }
+}
