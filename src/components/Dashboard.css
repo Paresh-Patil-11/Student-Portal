@@ -17,7 +17,6 @@ body {
   opacity: 0.7;
 }
 
-/* === Section Headers or Titles === */
 .custom-header {
   font-size: 20px;
   font-weight: bold;
@@ -25,12 +24,10 @@ body {
   color: #444;
 }
 
-/* === Grid Padding or Spacing (optional override) === */
 .MuiGrid-root {
   padding: 8px;
 }
 
-/* === Dark mode support (optional) === */
 body.dark-mode {
   background-color: #121212;
   color: #fff;
